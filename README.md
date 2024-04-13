@@ -18,7 +18,7 @@ This is a Social Media Web-Application built with Python.
     $ python -m venv venv
     $ source venv/Scripts/activate
     (venv) pip install -r requirements.txt
-    (venv) cd Sociogram-Django-App
+    (venv) cd Sociolify-Django-App
     (venv) python manage.py makemigrations
     (venv) python manage.py migrate
     (venv) python manage.py createsuperuser
