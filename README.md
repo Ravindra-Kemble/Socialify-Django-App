@@ -1,5 +1,5 @@
 
-# Sociogram - Django Web-Application
+# Socialify - Django Web-Application
 
 This is a Social Media Web-Application built with Python.
 
